@@ -1,2 +1,2 @@
 # CMPG323-Overview---29065038
-The code gathers all links presented on a given website page, the URL is obtained by user input and prints the links for the lists.
+The code gathers information needed by the bank to verify identification and details in order for the user to do certain transactions such withdrawal and checking balance.
